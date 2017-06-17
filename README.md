@@ -9,4 +9,4 @@ Usage:
     (change)="doStuff($event.value);">
 </checkbox>
 
-It can also be used as a FormBuilder form element."# checkbox" 
+It can also be used as a FormBuilder form element.
